@@ -225,7 +225,6 @@ The screenshot below shows the project in action:
   <img src="my personal assistant.png" alt="AI Personal Assistant Screenshot" width="900">
 </p>
 
-> **Note:** Keep `my personal assistant.png` in the same folder as this `README.md`, or update the image path above to match your repository structure.
 
 ---
 
